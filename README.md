@@ -1,0 +1,2 @@
+# Automating-Financial-Document-Extraction-with-Snowflake-Document-AI-and-Streamlit-in-Snowflake
+This repository demonstrates how to automate document extraction using Snowflake's Document AI and Streamlit in Snowflake (SiS). The example workflow focuses on W2 document processing, showcasing how to upload documents, extract key information using Snowflake’s Arctic-TILT LLM, and display results within a Streamlit app.
